@@ -21,3 +21,11 @@
     </div>
 </div>
 @endsection
+
+@push('style')
+{{-- <style>
+    body{
+        background-color:gray;
+    }
+</style> --}}
+@endpush
